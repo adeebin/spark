@@ -7,7 +7,7 @@ public class Hello {
 	}
 	
 	public static void printMessage() {
-		System.out.println("Hello Everyone !");
+		System.out.println("Hello Everyone in the World !");
 	}
 	
 	public static void printMessage(String msg) {
