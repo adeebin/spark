@@ -7,7 +7,7 @@ public class Hello {
 	}
 	
 	public static void printMessage() {
-		System.out.println("Hello Git !");
+		System.out.println("Hello Everyone !");
 	}
 	
 	public static void printMessage(String msg) {
